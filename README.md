@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kentuckyfriedkids
-- 👀 I’m interested in gmaes
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me idk
